@@ -1,0 +1,6 @@
+1) created a spring project using spring boot initializer
+ dependencies added
+ 1) spring web
+ 2)spring web tools
+ 3)lombok' 
+ 4)spring mongo db
